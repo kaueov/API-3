@@ -48,7 +48,7 @@ Adicionalmente, foram implementadas regras de exclusão para territórios classi
  # Aplicabilidade das Ferramentas
  ##  Para facilitar o tratamento dos dados, foi feita a filtragem e posterior substituição dos códigos dos municípios por seus respectivos nomes com o objetivo de organizar e analisar os dados comerciais dessas regiões, facilitando a interpretação e uso posterior.
 <div align="center">
-<img src="Imagens/Ferramentas.png" alt="/Imagens Git/Ferramentas Utilizadas" width="750"/>
+<img src="Imagens/Ferramenta.png" alt="/Imagens Git/Ferramentas Utilizadas" width="750"/>
  </div>
 
  ### Jira Software
