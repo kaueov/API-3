@@ -45,7 +45,7 @@ Foi desenvolvido um dashboard interativo indicando as principais causas e veícu
  - Power BI
 
  # Aplicabilidade das Ferramentas
- ##  Para facilitar o tratamento dos dados, foi feito o agrupamento de cada tipo de dado em diferentes planílhas, facilitando a interpretação e uso posterior.
+ ##  Para facilitar o tratamento dos dados, foi feito o agrupamento de cada tipo de dado em diferentes planílhas através de códigos nas linguagens Python e SQL, facilitando a interpretação e uso posterior.
 <div align="center">
 <img src="Imagens/Ferramenta.png" alt="/Imagens Git/Ferramentas Utilizadas" width="750"/>
  </div>
