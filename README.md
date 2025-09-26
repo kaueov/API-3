@@ -77,105 +77,105 @@ Foi desenvolvido um dashboard interativo indicando as principais causas e veícu
     <tr>
       <td>1</td>
       <td>Alta</td>
-      <td>Como analistas, iremos definir escopo e métricas principais a serem apresentadas no dashboard</td>
+      <td>Como tomador de decição em políticas públicas, iremos definir escopo e métricas principais a serem apresentadas no dashboard</td>
       <td>5</td>
       <td>1º</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Médio</td>
-      <td>Como analistas, criaremos um backlog detalhado e que priorize as entregas. </td>
+      <td>Como tomador de decição em políticas públicas, criaremos um backlog detalhado e que priorize as entregas. </td>
       <td>2</td>
       <td>1º</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Baixo</td>
-      <td>Como design, iremos desenhar esboço inicial do dashboard no Power BI. </td>
+      <td>Como tomador de decição em políticas públicas, iremos desenhar esboço inicial do dashboard no Power BI. </td>
       <td>2</td>
       <td>1º</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Alta</td>
-      <td>Como analistas e programadores, queremos iniciar scripts básicos em Python para coleta e limpeza inicial dos dados. </td>
+      <td>Como tomador de decição em políticas públicas, queremos iniciar scripts básicos em Python para coleta e limpeza inicial dos dados. </td>
       <td>8</td>
       <td>1º</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Alta</td>
-      <td>Como analistas e programadores, queremos construir um fluxo de ETL em Python e MySQL (tratamento e padronização). </td>
+      <td>Como tomador de decição em políticas públicas, queremos construir um fluxo de ETL em Python e MySQL (tratamento e padronização). </td>
       <td>8</td>
       <td>2º</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Médio</td>
-      <td>Como analistas, iremos definir tabelas consolidadas: mortes, frota, população e sinistros.</td>
+      <td>Como tomador de decição em políticas públicas, iremos definir tabelas consolidadas: mortes, frota, população e sinistros.</td>
       <td>6</td>
       <td>2º</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Médio</td>
-      <td>Como analistas e programadores, iremos realizar testes de consistência nos indicadores. </td>
+      <td>Como tomador de decição em políticas públicas, iremos realizar testes de consistência nos indicadores. </td>
       <td>5</td>
       <td>2º</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Baixo</td>
-      <td>Como analistas, iremos documentar o processo de integração e primeiros resultados.</td>
+      <td>Como tomador de decição em políticas públicas, iremos documentar o processo de integração e primeiros resultados.</td>
       <td> </td>
       <td>2º</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Alta</td>
-      <td>Como analistas, queremos implementar indicadores-chave (mortalidade, sinistros por frota, motorização, comparativos).</td>
+      <td>Como tomador de decição em políticas públicas, queremos implementar indicadores-chave (mortalidade, sinistros por frota, motorização, comparativos).</td>
       <td>7</td>
       <td>2º</td>
     </tr>
     <tr>
       <td>10</td>
       <td>Médio</td>
-      <td>Como analistas queremos configurar filtros interativos no Power BI.</td>
+      <td>Como tomador de decição em políticas públicas, queremos configurar filtros interativos no Power BI.</td>
       <td>4</td>
       <td>2º</td>
     </tr>
     <tr>
       <td>11</td>
       <td>Alta</td>
-      <td>Como analistas, queremos consolidar análises por região e evolução dos indicadores (2015–2024).</td>
+      <td>Como tomador de decição em políticas públicas, queremos consolidar análises por região e evolução dos indicadores (2015–2024).</td>
       <td>8</td>
       <td>3º</td>
     </tr>
     <tr>
       <td>12</td>
       <td>Baixo</td>
-      <td>Como analistas, queremos preparar material de apoio (slides, resumo do projeto, guia de uso). </td>
+      <td>Como tomador de decição em políticas públicas, queremos preparar material de apoio (slides, resumo do projeto, guia de uso). </td>
       <td>2</td>
       <td>3º</td>
     </tr>
     <tr>
       <td>13</td>
       <td>Baixo</td>
-      <td>Como desginer, iremos refinar visualizações (layout, navegação e comparativos regionais). </td>
+      <td>Como tomador de decição em políticas públicas, iremos refinar visualizações (layout, navegação e comparativos regionais). </td>
       <td>4</td>
       <td>3º</td>
     </tr>
     <tr>
       <td>14</td>
       <td>Médio</td>
-      <td>Como desginer, queremos criar visuais no Power BI (mapas, séries históricas, comparativos).</td>
+      <td>Como tomador de decição em políticas públicas, queremos criar visuais no Power BI (mapas, séries históricas, comparativos).</td>
       <td>4</td>
       <td>3º</td>
     </tr>
     <tr>
       <td>15</td>
       <td>Alta</td>
-      <td>Como analista, queremos elaborar relatório técnico (metodologia, scripts comentados, insights por estado). </td>
+      <td>Como tomador de decição em políticas públicas, queremos elaborar relatório técnico (metodologia, scripts comentados, insights por estado). </td>
       <td>7</td>
       <td>3º</td>
     </tr>
@@ -198,12 +198,12 @@ Foi desenvolvido um dashboard interativo indicando as principais causas e veícu
  <tbody>
 
  <tr>
-  <td><img src="https://img.shields.io/badge/Scrum%20Master%20-red"></td>
+  <td><img src="https://img.shields.io/badge/Product%20Owner%20-red"></td>
   <td>Leonardo Rocha</td>
   <td><a href="https://www.linkedin.com/in/leonardo-rocha-alves-921617306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
-  <td><img src="https://img.shields.io/badge/Product%20Owner%20-blue"></td>
+  <td><img src="https://img.shields.io/badge/Scrum%20Master%20-blue"></td>
   <td>Mateus Alexandre</td>
   <td><a href="https://www.linkedin.com/in/matheus-alexxandre?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
