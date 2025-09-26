@@ -56,7 +56,7 @@ Foi desenvolvido um dashboard interativo indicando as principais causas e veícu
  ### Python
   Por haver uma quantidade massiva de plhanilhas com dados e de diferentes fontes, o que causava a divergencia da estrutura entre todas as planílhas, foi feita uma primeira filtragem por agrupamento de tipos de dados em outras tabelas geradas a partir do python
  ### SQL
-  Após o agrupamento dos dados por tipo no SQL, foram aplicados filtros mais precisos. Essa etapa foi crucial para refinar o conjunto de dados e garantir que apenas as informações mais relevantes fossem selecionadas, otimizando a qualidade e a eficiência da análise futura no Power BI.
+  Após o agrupamento dos dados por tipo no Python, foram aplicados mais outros filtros e transformações para gerar tabelas segmentadas conforme os critérios analíticos definidos. Considerando a ausência de integração nativa entre o SQL Workbench e o Power BI, foi configurado o driver MySQL Connector/ODBC, permitindo a conexão via ODBC e a extração dos dados diretamente para o Power BI. Essa abordagem possibilitou a atualização dinâmica e o consumo eficiente das informações na camada de visualização.
  ### Excel
   Para viabilizar a filtragem da planilha principal por meio de consultas SQL, foram gerados diversos arquivos auxiliares contendo planilhas segmentadas de forma criteriosa, organizadas exclusivamente com os dados relevantes e estruturadas por ano. Essa abordagem permitiu otimizar o desempenho das consultas, reduzir a complexidade dos dados processados e facilitar a manipulação e análise das informações históricas de maneira eficiente e escalável.
   
@@ -215,7 +215,7 @@ Foi desenvolvido um dashboard interativo indicando as principais causas e veícu
 <tr>
  <td><img src="https://img.shields.io/badge/Scrum%20Team%20-black"></td>
  <td>Kauê Venâncio</td>
- <td><a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
+ <td><a href="https://www.linkedin.com/in/kauê-oliveira-venâncio-b076b0192/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
   </tbody>
 </table>
