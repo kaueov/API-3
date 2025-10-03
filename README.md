@@ -15,12 +15,12 @@ Paralelamente, será conduzido um exame detalhado das principais causas de acice
 ## Primeiro Sprint
 
 <img width=50% src="Imagens/MVP1.gif"/>
-Foi desenvolvido um dashboard interativo indicando as principais causas e veículos. Mas apenas dos sinístros no estado de São Paulo inicialmente de maneira demonstrativa. Indicando as variações e as medidas tomadas ao longo dos anos para o controle de acidente.
+Foram coletados dados de diferentes anos e agrupados em arquivos .CSV e feito o esboço do dashboar, mas não funcional. Apenas dos sinístros no estado de São Paulo. Para futuramente indicar as variações e as medidas tomadas ao longo dos anos para o controle de acidente.
 
-## Segundo Sprint
+## Segundo Spr
 
  <img width=50% src="Imagens/MVP2.gif"/>
- Serão adicionados ao deshboard mais filtros de informações dos sinistro, além de mais detalhes com mapas.
+ Será apresentado um dashboard com filtros de informações dos sinistro, além de mais detalhes com mapas.
  Além de feita a relação de artigos informativos com a quantidade de sinistros. Indicando as variações e as medidas tomadas ao longo dos anos para o controle de acidentes.
 
 ## Terceiro Sprint
@@ -28,15 +28,11 @@ Foi desenvolvido um dashboard interativo indicando as principais causas e veícu
  Realizaremos um dashboard assim como o do sprint anterior, porém englobando o país inteiro com informações obtidas nos ultimos dez anos
 
  
- <h1>Link do Dashboard</h1>
-
- <a href="link do dashboard">
-  <img src="https://img.icons8.com/?size=100&id=46377&format=png&color=000000"></a>
-
+ 
 
 
  # Ferramentas Utilizadas
- - ClicUp
+ - ClickUp
  - Excel
  - Power Point
  - Microsoft Word
