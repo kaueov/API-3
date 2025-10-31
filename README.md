@@ -17,7 +17,7 @@ Paralelamente, será conduzido um exame detalhado das principais causas de acice
 <img width=50% src="Imagens/MVP1.gif"/>
 Foram coletados dados de diferentes anos e agrupados em arquivos .CSV e feito o esboço do dashboar, mas não funcional. Apenas dos sinístros no estado de São Paulo. Para futuramente indicar as variações e as medidas tomadas ao longo dos anos para o controle de acidente.
 
-## Segundo Spr
+## Segundo Sprint
 
  <img width=50% src="Imagens/MVP2.gif"/>
  Será apresentado um dashboard com filtros de informações dos sinistro, além de mais detalhes com mapas.
@@ -39,6 +39,7 @@ Foram coletados dados de diferentes anos e agrupados em arquivos .CSV e feito o 
  - SQL Workbench
  - Python
  - Power BI
+ - Drive
 
  # Aplicabilidade das Ferramentas
  ##  Para facilitar o tratamento dos dados, foi feito o agrupamento de cada tipo de dado em diferentes planílhas através de códigos nas linguagens Python e SQL, facilitando a interpretação e uso posterior.
@@ -55,131 +56,28 @@ Foram coletados dados de diferentes anos e agrupados em arquivos .CSV e feito o 
   Após o agrupamento dos dados por tipo no Python, foram aplicados mais outros filtros e transformações para gerar tabelas segmentadas conforme os critérios analíticos definidos. Considerando a ausência de integração nativa entre o SQL Workbench e o Power BI, foi configurado o driver MySQL Connector/ODBC, permitindo a conexão via ODBC e a extração dos dados diretamente para o Power BI. Essa abordagem possibilitou a atualização dinâmica e o consumo eficiente das informações na camada de visualização.
  ### Excel
   Para viabilizar a filtragem da planilha principal por meio de consultas SQL, foram gerados diversos arquivos auxiliares contendo planilhas segmentadas de forma criteriosa, organizadas exclusivamente com os dados relevantes e estruturadas por ano. Essa abordagem permitiu otimizar o desempenho das consultas, reduzir a complexidade dos dados processados e facilitar a manipulação e análise das informações históricas de maneira eficiente e escalável.
+ ### Drive
+  Através do Google Drive criamos uma pasta de compatilhamento de arquivos entre os membros da equipe, com isso utilizamos o Google Colab para unificar diferentes arquivos em .csv
   
   
  # Backlog do Produto
- 
-<table>
-  <thead>
-    <tr>
-      <th>Rank</th>
-      <th>Prioridade</th>
-      <th>User Story</th>
-      <th>Estimativa</th>
-      <th>Sprint</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>Alta</td>
-      <td>Como tomador de decição em políticas públicas, iremos definir escopo e métricas principais a serem apresentadas no dashboard</td>
-      <td>5</td>
-      <td>1º</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Médio</td>
-      <td>Como tomador de decição em políticas públicas, criaremos um backlog detalhado e que priorize as entregas. </td>
-      <td>2</td>
-      <td>1º</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>Baixo</td>
-      <td>Como tomador de decição em políticas públicas, iremos desenhar esboço inicial do dashboard no Power BI. </td>
-      <td>2</td>
-      <td>1º</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Alta</td>
-      <td>Como tomador de decição em políticas públicas, queremos iniciar scripts básicos em Python para coleta e limpeza inicial dos dados. </td>
-      <td>8</td>
-      <td>1º</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Alta</td>
-      <td>Como tomador de decição em políticas públicas, queremos construir um fluxo de ETL em Python e MySQL (tratamento e padronização). </td>
-      <td>8</td>
-      <td>2º</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>Médio</td>
-      <td>Como tomador de decição em políticas públicas, iremos definir tabelas consolidadas: mortes, frota, população e sinistros.</td>
-      <td>6</td>
-      <td>2º</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>Médio</td>
-      <td>Como tomador de decição em políticas públicas, iremos realizar testes de consistência nos indicadores. </td>
-      <td>5</td>
-      <td>2º</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>Baixo</td>
-      <td>Como tomador de decição em políticas públicas, iremos documentar o processo de integração e primeiros resultados.</td>
-      <td> </td>
-      <td>2º</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>Alta</td>
-      <td>Como tomador de decição em políticas públicas, queremos implementar indicadores-chave (mortalidade, sinistros por frota, motorização, comparativos).</td>
-      <td>7</td>
-      <td>2º</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>Médio</td>
-      <td>Como tomador de decição em políticas públicas, queremos configurar filtros interativos no Power BI.</td>
-      <td>4</td>
-      <td>2º</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>Alta</td>
-      <td>Como tomador de decição em políticas públicas, queremos consolidar análises por região e evolução dos indicadores (2015–2024).</td>
-      <td>8</td>
-      <td>3º</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>Baixo</td>
-      <td>Como tomador de decição em políticas públicas, queremos preparar material de apoio (slides, resumo do projeto, guia de uso). </td>
-      <td>2</td>
-      <td>3º</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>Baixo</td>
-      <td>Como tomador de decição em políticas públicas, iremos refinar visualizações (layout, navegação e comparativos regionais). </td>
-      <td>4</td>
-      <td>3º</td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>Médio</td>
-      <td>Como tomador de decição em políticas públicas, queremos criar visuais no Power BI (mapas, séries históricas, comparativos).</td>
-      <td>4</td>
-      <td>3º</td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>Alta</td>
-      <td>Como tomador de decição em políticas públicas, queremos elaborar relatório técnico (metodologia, scripts comentados, insights por estado). </td>
-      <td>7</td>
-      <td>3º</td>
-    </tr>
-    
-  </tbody>
-</table>
-
- 
+|Rank|Prioridade|User Story|Estimativa|Sprint|
+|----|----------|----------|----------|------|
+|1|Alta|Como tomador de decisão de políticas públicas, quero que no dashboard contenha as principais métricas e escopos.|5|1°|
+|2|Média|Como tomador de decisão de políticas públicas, quero um backlog detalhado e que contenha ordem de prioridade de entregas a serem apresentadas.|5|1º|
+|3|Baixa|Como tomador de decisão de políticas públicas, quero o esqueleto inicial do dashboard, para entender os dados a serem mostrados. |5|1º|
+|4|Alta|Como tomador de decisão de políticas públicas, quero uma base de dados inicial tratada e limpa, eliminando as informações inúteis, utilizando scripts básicos. |8|1º|
+|5|Alta|Como tomador de decisão de políticas públicas, quero um fluxo de ETL em Python e MySQL. |8|2º|
+|6|Média|Como tomador de decisão de políticas públicas, quero Graficos, com as informações de sinistros, mortes, frotas e população do estado de SP |6|2º|
+|7|Média|Como tomador de decisão de políticas públicas, quero que sejam feitos testes para consolidar as consistências dos indicadores. |5|2º|
+|8|Baixa|Como tomador de decisão de políticas públicas, quero a documentação do processo de integração e os primeiros resultados.|2|2º|
+|9|Alta|Como tomador de decisão de políticas públicas, quero indicadores que mostrem mortalidade, sinistros por frota, motorização, comparativos. |7|2º|
+|10|Média|Como tomador de decisão de políticas públicas, quero filtros interativos no dashboard.|4|2º|
+|11|Alta|Como tomador de decisão de políticas públicas, quero que seja feito consolidação de análises por região e evolução dos indicadores (2015–2024). |8|3º|
+|12|Baixa|Como tomador de decisão de políticas públicas, quero material de apoio (slides, resumo do projeto, guia de uso). |2|3º|
+|13|Média|Como tomador de decisão de políticas públicas, quero visualizações refinadas (layout, navegação e comparativos regionais). |4|3º|
+|14|Média|Como tomador de decisão de políticas públicas, quero um visual interativo no Power BI (mapas, séries históricas, comparativos). |4|3º|
+|15|Alta|Como tomador de decisões de políticas públicas, quero um relatório técnico (metodologia, scripts comentados, insights por estado).|7|3º|
 
 # Equipe
 
