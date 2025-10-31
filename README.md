@@ -43,7 +43,7 @@ Foram coletados dados de diferentes anos e agrupados em arquivos .CSV e feito o 
  # Aplicabilidade das Ferramentas
  ##  Para facilitar o tratamento dos dados, foi feito o agrupamento de cada tipo de dado em diferentes planílhas através de códigos nas linguagens Python e SQL, facilitando a interpretação e uso posterior.
 <div align="center">
-<img src="Imagens/Ferramenta.png" alt="/Imagens Git/Ferramentas Utilizadas" width="750"/>
+<img src="Imagens/Ferramentas.png" alt="/Imagens Git/Ferramentas Utilizadas" width="750"/>
  </div>
 
  ### ClickUp
