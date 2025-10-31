@@ -15,7 +15,7 @@ Paralelamente, será conduzido um exame detalhado das principais causas de acice
 ## Primeiro Sprint
 
 <img width=50% src="Imagens/MVP1.gif"/>
-Foram coletados dados de diferentes anos e agrupados em arquivos .CSV e feito o esboço do dashboar, mas não funcional. Apenas dos sinístros no estado de São Paulo. Para futuramente indicar as variações e as medidas tomadas ao longo dos anos para o controle de acidente.
+Foram coletados dados de diferentes anos e agrupados em arquivos .CSV e feito o esboço do dashboard, mas não funcional. Apenas dos sinístros no estado de São Paulo. Para futuramente indicar as variações e as medidas tomadas ao longo dos anos para o controle de acidente.
 
 ## Segundo Sprint
 
