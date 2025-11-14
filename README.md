@@ -8,7 +8,7 @@
 ## Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
-* [Backlog do produto](#Product-Backlog)
+* [Backlog do produto](#Backlog-do-produto)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)     
 # Projeto(API)
