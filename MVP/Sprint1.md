@@ -1,4 +1,6 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - VonaKombi
+
+<img=Imagens/MVP1.gif>
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
