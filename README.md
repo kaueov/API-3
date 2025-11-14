@@ -14,18 +14,18 @@
 # Projeto(API)
 Desenvolvimento de um dashboard interativo com dados agregados de segurança viária, permitindo análises comparativas entre estados e indicadores de risco em todo o território nacional.
 
-# Equipe
+## Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| img src="https://img.shields.io/badge/Product%20Owner%20-red |   Leonardo Rocha         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)              |
-| img src="https://img.shields.io/badge/Scrum%20Master%20-blue  | Matheus Alexandre |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)     |
-| img src="https://img.shields.io/badge/Scrum%20Team%20-black"   | Pedro Hernandes              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
-|  img src="https://img.shields.io/badge/Scrum%20Team%20-black" | Kauê Venâncio                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
+| <img src="https://img.shields.io/badge/Product%20Owner%20-red"> |   Leonardo Rocha         |    <a href="https://www.linkedin.com/in/leonardo-rocha-alves-921617306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>              |
+| <img src="https://img.shields.io/badge/Scrum%20Master%20-blue">  | Matheus Alexandre |      <a href="https://www.linkedin.com/in/matheus-alexxandre?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     |
+| <img src="https://img.shields.io/badge/Scrum%20Team%20-black">   | Pedro Hernandes              |         <a href="https://www.linkedin.com/in/pedro-hernandes-720486212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>        |
+|  <img src="https://img.shields.io/badge/Scrum%20Team%20-black"> | Kauê Venâncio                 |         <a href="https://www.linkedin.com/in/kauê-oliveira-venâncio-b076b0192/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">        |
 
- # Objetivo do Projeto
+ ## Objetivo do Projeto
  Desenvolver uma ferramenta de Business Intelligence que integre diferentes bases de dados públicas — PRF, DATASUS, DENATRAN e IBGE — para analisar os indicadores de sinistralidade no trânsito. O sistema deve apresentar métricas por estado e nacionalmente, como: mortalidade, severidade dos sinistros, índice de motorização, frota, população, uso de motocicletas, entre outros. 
 
- # Ferramentas Utilizadas
+ ## Ferramentas Utilizadas
  <div align="center">
 <img src="Imagens/Ferramentas.png" alt="/Imagens Git/Ferramentas Utilizadas" width="750"/>
  </div>
@@ -38,10 +38,22 @@ Desenvolvimento de um dashboard interativo com dados agregados de segurança vi�
  - Power BI
  - Drive
 
+## Competências desenvolvidas
+- Documentação de projeto ágil (backlog de produto, de sprint, briefing, etc.)  
+
+- Processo de desenvolvimento ágil   
+
+- Caracterização do produto logístico  
+
+- Lógica de programação básica 
+
+- Lógica matemática 
+
+- Persistência de dados em BD relacional  
  
   
   
- # Backlog do Produto
+ ## Backlog do Produto
 |Rank|Prioridade|User Story|Estimativa|Sprint|
 |----|----------|----------|----------|------|
 |1|Alta|Como tomador de decisão de políticas públicas, quero que no dashboard contenha as principais métricas e escopos.|5|1°|
@@ -60,42 +72,9 @@ Desenvolvimento de um dashboard interativo com dados agregados de segurança vi�
 |14|Média|Como tomador de decisão de políticas públicas, quero um visual interativo no Power BI (mapas, séries históricas, comparativos). |4|3º|
 |15|Alta|Como tomador de decisões de políticas públicas, quero um relatório técnico (metodologia, scripts comentados, insights por estado).|7|3º|
 
-# Equipe
 
-<table>
-  <thead>
-    <tr>
-      <th>Cargo</th>
-      <th>Nome</th>
-      <th>Linkedin</th>
-    </tr>
-  </thead>
- <tbody>
 
- <tr>
-  <td><img src="https://img.shields.io/badge/Product%20Owner%20-red"></td>
-  <td>Leonardo Rocha</td>
-  <td><a href="https://www.linkedin.com/in/leonardo-rocha-alves-921617306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
-</tr>
- <tr>
-  <td><img src="https://img.shields.io/badge/Scrum%20Master%20-blue"></td>
-  <td>Mateus Alexandre</td>
-  <td><a href="https://www.linkedin.com/in/matheus-alexxandre?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
-</tr>
- <tr>
-  <td><img src="https://img.shields.io/badge/Scrum%20Team%20-black"></td>
-  <td>Pedro Hernandes</td>
-  <td><a href="https://www.linkedin.com/in/pedro-hernandes-720486212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
-</tr>
-<tr>
- <td><img src="https://img.shields.io/badge/Scrum%20Team%20-black"></td>
- <td>Kauê Venâncio</td>
- <td><a href="https://www.linkedin.com/in/kauê-oliveira-venâncio-b076b0192/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
-</tr>
-  </tbody>
-</table>
-
-# Registro das Sprints
+## Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
