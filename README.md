@@ -4,9 +4,13 @@
 
  <img width=100% src="Imagens/Banner.png"/>
  </div>
-
+ 
+## Índice
+* [Proposta](#proposta)
+* [Ferramentas Utilizadas](#ferramentas-utilizadas)
+* 
 # Proposta
- Realizar a coleta de dados e análise aprofundada sobre os sinistros de trânsito, suas causas, resultados e detalhes para um levantamento dos principais indicadores e suas variações ao longo dos ultimos dez anos.
+Realizar a coleta de dados e análise aprofundada sobre os sinistros de trânsito, suas causas, resultados e detalhes para um levantamento dos principais indicadores e suas variações ao longo dos ultimos dez anos.
 
 Será feita uma análise relacionando as variações na quantidade de sinístros com artigos informativos relacionados ao trânsito
 
