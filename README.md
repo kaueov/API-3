@@ -6,36 +6,29 @@
  </div>
  
 ## Índice
-* [Proposta](#proposta)
-* [Ferramentas Utilizadas](#ferramentas-utilizadas)
-* 
-# Proposta
-Realizar a coleta de dados e análise aprofundada sobre os sinistros de trânsito, suas causas, resultados e detalhes para um levantamento dos principais indicadores e suas variações ao longo dos ultimos dez anos.
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Equipe](#Equipe)
+* [Backlog do produto](#Product-Backlog)
+* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Registro das Sprints](#Registro-das-Sprints)     
+# Projeto(API)
+Desenvolvimento de um dashboard interativo com dados agregados de segurança viária, permitindo análises comparativas entre estados e indicadores de risco em todo o território nacional.
 
-Será feita uma análise relacionando as variações na quantidade de sinístros com artigos informativos relacionados ao trânsito
+# Equipe
+|    Função     | Nome                                  |                                                                                                                                                      LinkedIn                                                                                                                                                      |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| img src="https://img.shields.io/badge/Product%20Owner%20-red |   Leonardo Rocha         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)              |
+| img src="https://img.shields.io/badge/Scrum%20Master%20-blue  | Matheus Alexandre |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)     |
+| img src="https://img.shields.io/badge/Scrum%20Team%20-black"   | Pedro Hernandes              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
+|  img src="https://img.shields.io/badge/Scrum%20Team%20-black" | Kauê Venâncio                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
 
-Paralelamente, será conduzido um exame detalhado das principais causas de acicentes, os veículos e as regiões com maior registro
-
-## Primeiro Sprint
-
-<img width=50% src="Imagens/MVP1.gif"/>
-Foram coletados dados de diferentes anos e agrupados em arquivos .CSV e feito o esboço do dashboard, mas não funcional. Apenas dos sinístros no estado de São Paulo. Para futuramente indicar as variações e as medidas tomadas ao longo dos anos para o controle de acidente.
-
-## Segundo Sprint
-
- <img width=50% src="Imagens/MVP2.gif"/>
- Será apresentado um dashboard com filtros de informações dos sinistro, além de mais detalhes com mapas.
- Além de feita a relação de artigos informativos com a quantidade de sinistros. Indicando as variações e as medidas tomadas ao longo dos anos para o controle de acidentes.
-
-## Terceiro Sprint
- <img width=50% src="Imagens/MVP3.gif"/>
- Realizaremos um dashboard assim como o do sprint anterior, porém englobando o país inteiro com informações obtidas nos ultimos dez anos
-
- 
- 
-
+ # Objetivo do Projeto
+ Desenvolver uma ferramenta de Business Intelligence que integre diferentes bases de dados públicas — PRF, DATASUS, DENATRAN e IBGE — para analisar os indicadores de sinistralidade no trânsito. O sistema deve apresentar métricas por estado e nacionalmente, como: mortalidade, severidade dos sinistros, índice de motorização, frota, população, uso de motocicletas, entre outros. 
 
  # Ferramentas Utilizadas
+ <div align="center">
+<img src="Imagens/Ferramentas.png" alt="/Imagens Git/Ferramentas Utilizadas" width="750"/>
+ </div>
  - ClickUp
  - Excel
  - Power Point
@@ -45,23 +38,7 @@ Foram coletados dados de diferentes anos e agrupados em arquivos .CSV e feito o 
  - Power BI
  - Drive
 
- # Aplicabilidade das Ferramentas
- ##  Para facilitar o tratamento dos dados, foi feito o agrupamento de cada tipo de dado em diferentes planílhas através de códigos nas linguagens Python e SQL, facilitando a interpretação e uso posterior.
-<div align="center">
-<img src="Imagens/Ferramentas.png" alt="/Imagens Git/Ferramentas Utilizadas" width="750"/>
- </div>
-
- ### ClickUp
-  Através dele foi desgnada a tarefa e o prazo das atividades de cada membro do projeto, indicando o nivel de prioridade de cada tarefa a ser realizada e em qual sprint devem ser entregues organiando em anexos os outros aplicativos utilizados
-
- ### Python
-  Por haver uma quantidade massiva de plhanilhas com dados e de diferentes fontes, o que causava a divergencia da estrutura entre todas as planílhas, foi feita uma primeira filtragem por agrupamento de tipos de dados em outras tabelas geradas a partir do python
- ### SQL
-  Após o agrupamento dos dados por tipo no Python, foram aplicados mais outros filtros e transformações para gerar tabelas segmentadas conforme os critérios analíticos definidos. Considerando a ausência de integração nativa entre o SQL Workbench e o Power BI, foi configurado o driver MySQL Connector/ODBC, permitindo a conexão via ODBC e a extração dos dados diretamente para o Power BI. Essa abordagem possibilitou a atualização dinâmica e o consumo eficiente das informações na camada de visualização.
- ### Excel
-  Para viabilizar a filtragem da planilha principal por meio de consultas SQL, foram gerados diversos arquivos auxiliares contendo planilhas segmentadas de forma criteriosa, organizadas exclusivamente com os dados relevantes e estruturadas por ano. Essa abordagem permitiu otimizar o desempenho das consultas, reduzir a complexidade dos dados processados e facilitar a manipulação e análise das informações históricas de maneira eficiente e escalável.
- ### Drive
-  Através do Google Drive criamos uma pasta de compatilhamento de arquivos entre os membros da equipe, com isso utilizamos o Google Colab para unificar diferentes arquivos em .csv
+ 
   
   
  # Backlog do Produto
@@ -117,3 +94,12 @@ Foram coletados dados de diferentes anos e agrupados em arquivos .CSV e feito o 
 </tr>
   </tbody>
 </table>
+
+# Registro das Sprints
+
+| Sprint            | Previsão   | Status   | Histórico |
+|-------------------|------------|----------|-----------|
+| 01                | 03/10/2025 | Entregue  | [MVP](MVP/sp1.md)  |
+| 02                | 31/10/2025 | Entregue  | [MVP](MVP/sp2.md)  |
+| 03                | 28/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
