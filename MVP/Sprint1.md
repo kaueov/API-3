@@ -1,6 +1,5 @@
 # 📌 MVP - VonaKombi
 
-<img width=100% src=Imagens/MVP1.gif>
 
 ## 🎯 Objetivo do MVP
 > Desenvolver uma ferramenta de Business Intelligence que integre diferentes bases de dados públicas — PRF, DATASUS, DENATRAN e IBGE — para analisar os indicadores de sinistralidade no trânsito. O sistema deve apresentar métricas por estado e nacionalmente, como: mortalidade, severidade dos sinistros, índice de motorização, frota, população, uso de motocicletas, entre outros.  
@@ -75,6 +74,4 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+ <img width=100% src=Imagens/MVP1.gif>
