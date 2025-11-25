@@ -3,10 +3,10 @@
 <img width=100% src=Imagens/MVP1.gif>
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+> Desenvolver uma ferramenta de Business Intelligence que integre diferentes bases de dados públicas — PRF, DATASUS, DENATRAN e IBGE — para analisar os indicadores de sinistralidade no trânsito. O sistema deve apresentar métricas por estado e nacionalmente, como: mortalidade, severidade dos sinistros, índice de motorização, frota, população, uso de motocicletas, entre outros.  
+- Na estapa atual apenas foram coletados os dados que serão usados para a montagem do dashboard  
+- O usuario final apenas poderá ver os dados que serão utilizados 
+
 
 ---
 
@@ -25,10 +25,23 @@
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+|Rank|Prioridade|User Story|Estimativa|Sprint|
+|----|----------|----------|----------|------|
+|1|Alta|Como tomador de decisão de políticas públicas, quero que no dashboard contenha as principais métricas e escopos.|5|1°|
+|2|Média|Como tomador de decisão de políticas públicas, quero um backlog detalhado e que contenha ordem de prioridade de entregas a serem apresentadas.|5|1º|
+|3|Baixa|Como tomador de decisão de políticas públicas, quero o esqueleto inicial do dashboard, para entender os dados a serem mostrados. |5|1º|
+|4|Alta|Como tomador de decisão de políticas públicas, quero uma base de dados inicial tratada e limpa, eliminando as informações inúteis, utilizando scripts básicos. |8|1º|
+|5|Alta|Como tomador de decisão de políticas públicas, quero um fluxo de ETL em Python e MySQL. |8|2º|
+|6|Média|Como tomador de decisão de políticas públicas, quero Graficos, com as informações de sinistros, mortes, frotas e população do estado de SP |6|2º|
+|7|Média|Como tomador de decisão de políticas públicas, quero que sejam feitos testes para consolidar as consistências dos indicadores. |5|2º|
+|8|Baixa|Como tomador de decisão de políticas públicas, quero a documentação do processo de integração e os primeiros resultados.|2|2º|
+|9|Alta|Como tomador de decisão de políticas públicas, quero indicadores que mostrem mortalidade, sinistros por frota, motorização, comparativos. |7|2º|
+|10|Média|Como tomador de decisão de políticas públicas, quero filtros interativos no dashboard.|4|2º|
+|11|Alta|Como tomador de decisão de políticas públicas, quero que seja feito consolidação de análises por região e evolução dos indicadores (2015–2024). |8|3º|
+|12|Baixa|Como tomador de decisão de políticas públicas, quero material de apoio (slides, resumo do projeto, guia de uso). |2|3º|
+|13|Média|Como tomador de decisão de políticas públicas, quero visualizações refinadas (layout, navegação e comparativos regionais). |4|3º|
+|14|Média|Como tomador de decisão de políticas públicas, quero um visual interativo no Power BI (mapas, séries históricas, comparativos). |4|3º|
+|15|Alta|Como tomador de decisões de políticas públicas, quero um relatório técnico (metodologia, scripts comentados, insights por estado).|7|3º|
 
 ---
 
