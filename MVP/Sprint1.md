@@ -18,7 +18,7 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:**    
 - **Persona 2:** breve descrição, necessidades e dores atendidas  
 
 ---
