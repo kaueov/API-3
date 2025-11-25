@@ -48,8 +48,8 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Dados filtrados                        | Concluído|
+| 02     | Dashboard funcional                      | Em andamento |
 
 ---
 
