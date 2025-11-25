@@ -1,6 +1,6 @@
 # 📌 MVP - VonaKombi
 
-<img=Imagens/MVP1.gif>
+<img width=100% src=Imagens/MVP1.gif>
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
