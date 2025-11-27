@@ -52,7 +52,7 @@
 ## 📊 Critérios de Aceitação
 - O MVP deve permitir que o usuário entenda os passos e o planejamento realizado antes da entrega do dashboard
 - O sistema deve registrar a filtragem dos dados essenciais para o projeto 
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+
 
 ---
 
