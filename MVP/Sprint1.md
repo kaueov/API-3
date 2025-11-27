@@ -2,24 +2,21 @@
 
 
 ## 🎯 Objetivo do MVP
-> Desenvolver uma ferramenta de Business Intelligence que integre diferentes bases de dados públicas — PRF, DATASUS, DENATRAN e IBGE — para analisar os indicadores de sinistralidade no trânsito. O sistema deve apresentar métricas por estado e nacionalmente, como: mortalidade, severidade dos sinistros, índice de motorização, frota, população, uso de motocicletas, entre outros.  
+- Desenvolver uma ferramenta de Business Intelligence que integre diferentes bases de dados públicas — PRF, DATASUS, DENATRAN e IBGE — para analisar os indicadores de sinistralidade no trânsito. O sistema deve apresentar métricas por estado e nacionalmente, como: mortalidade, severidade dos sinistros, índice de motorização, frota, população, uso de motocicletas, entre outros.  
 - Na estapa atual apenas foram coletados os dados que serão usados para a montagem do dashboard  
 - O usuario final apenas poderá ver os dados que serão utilizados 
 
 
 ---
 
-## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+## 📝 Descrição da Solução 
+- Dados foram reunidos até o momento 
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:**    
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1: Busca entender quais regiões possuem mais concentração de acidentes, suas principais causas e propenções
+ 
 
 ---
 
@@ -48,8 +45,8 @@
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | Dados filtrados                        | Concluído|
-| 02     | Dashboard funcional                      | Em andamento |
-
+| 02     | Apresentar pesquisas que expliquem as principais causas dos acidentes                      | Em andamento |
+| 03     | Dashboard funcional                      | Em andamento |
 ---
 
 ## 📊 Critérios de Aceitação
@@ -60,9 +57,9 @@
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Dashboard ainda não foi entregue
+- Dados foram reunidos
+- Ainda não interativo
 
 ---
 
