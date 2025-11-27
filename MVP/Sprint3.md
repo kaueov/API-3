@@ -4,7 +4,7 @@
 
 ## 🎯 Objetivo do MVP
 - Desenvolver uma ferramenta de Business Intelligence que integre diferentes bases de dados públicas — PRF, DATASUS, DENATRAN e IBGE — para analisar os indicadores de sinistralidade no trânsito. O sistema deve apresentar métricas por estado e nacionalmente, como: mortalidade, severidade dos sinistros, índice de motorização, frota, população, uso de motocicletas, entre outros.  
-- Nesta etapa foi foram feitas mudasnças focadas nas vias onde apresentaram mais acidentes
+- Nesta etapa foi foram feitas mudanças focadas nas vias onde apresentaram mais acidentes
 - Foram criadas diferentes visualizações focadas em cada tipo de dado obtido como vias, veículos e gravidadede acidentes
 
 
